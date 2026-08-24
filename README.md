@@ -19,8 +19,4 @@ Ainda estou no processo de evolução e construção da minha experiência sempr
 
 Python • Backend • APIs • Inteligência Artificial
 
-📊 GitHub
-
-<p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jefte-dev&show_icons=true&theme=transparent&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefte-dev&layout=compact&theme=transparent&hide_border=true" /> </p>
-
-🚀 Construindo, aprendendo e evoluindo.
+<p> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/jefte-dev"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
