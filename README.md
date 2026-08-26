@@ -19,4 +19,4 @@ Ainda estou no processo de evolução e construção da minha experiência sempr
 
 Python • Backend • APIs • Inteligência Artificial
 
-<p> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Pedro-Jefte"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p> <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pedrojefte/)"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Pedro-Jefte"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
