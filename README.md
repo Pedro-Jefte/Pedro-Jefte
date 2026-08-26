@@ -7,8 +7,6 @@ Atualmente curso Engenharia de Software e também tenho formação técnica em D
 
 Ainda estou no processo de evolução e construção da minha experiência sempre buscando aprender algo novo e melhorar meus projetos.
 
-<p> <a href="https://github.com/jefte-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-
 💻 Linguagens & Tecnologias
 
 <p> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,react,mysql,mongodb,git,github" /> </p>
