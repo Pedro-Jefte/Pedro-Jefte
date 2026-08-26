@@ -2,25 +2,31 @@
 
 ### Backend • Python • IA
 
-Olá! Eu sou o Pedro Jefte, tenho 19 anos e estou construindo minha trajetória na área de tecnologia.
+Olá! Eu sou Pedro Jefte e estou construindo minha trajetória na área de tecnologia.
 
-Atualmente curso **Engenharia de Software** e também tenho formação técnica em **Desenvolvimento de Sistemas**. Tenho interesse principalmente em **Backend, Python e Inteligência Artificial**, e gosto de aprender colocando as coisas em prática através de projetos.
+Atualmente curso **Engenharia de Software** e tenho formação técnica em **Desenvolvimento de Sistemas**. Tenho interesse principalmente em **Backend, Python e Inteligência Artificial**, buscando aprender através de projetos e aplicações práticas.
 
-Ainda estou no processo de evolução e construção da minha experiência, sempre buscando aprender algo novo e melhorar meus projetos.
-
----
-
-## 💻 Linguagens & Tecnologias
+## 💻 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,react,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,mongodb,git,github" />
 </p>
 
-## 🧠 Atualmente explorando
+## 🧠 Foco atual
 
-**Python • Backend • APIs • Inteligência Artificial**
+**Python • Backend • APIs • SQL • Inteligência Artificial**
 
----
+## 🚀 Projetos
+
+Confira alguns dos projetos que venho desenvolvendo no meu perfil.
+
+<p>
+  <a href="https://github.com/Pedro-Jefte">
+    <img src="https://img.shields.io/badge/Ver%20projetos-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+## 📫 Contato
 
 <p>
   <a href="https://www.linkedin.com/in/pedrojefte/" target="_blank">
